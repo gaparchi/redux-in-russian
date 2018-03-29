@@ -37,14 +37,14 @@ npm install
 npm start
 
 open http://localhost:3000/
+
+## TodoMVC
 ```
 
 Тут показаны:
 
 * Базовый шаблон разработки Redux;
 * Тестирование.
-
-## TodoMVC
 
 Запуск [TodoMVC](https://github.com/reactjs/redux/tree/master/examples/todomvc):
 
@@ -59,6 +59,9 @@ npm install
 npm start
 
 open http://localhost:3000/
+
+## Async
+
 ```
 
 Тут показаны:
@@ -66,8 +69,6 @@ open http://localhost:3000/
 * Базовый шаблон разработки Redux с двумя редюсерами;
 * Обновление хранимой информации;
 * Тестирование.
-
-## Async
 
 Запуск [Async](https://github.com/reactjs/redux/tree/master/examples/async):
 
@@ -82,6 +83,8 @@ npm install
 npm start
 
 open http://localhost:3000/
+
+## Real World
 ```
 
 Тут показаны:
@@ -89,8 +92,6 @@ open http://localhost:3000/
 * Базовый шаблон асинхронной разработки Redux с [redux-thunk](https://github.com/gaearon/redux-thunk);
 * Кеширование запросов и вывод спиннера, пока данные подгружаются;
 * Инвалидация закэшированных данных.
-
-## Real World
 
 Запуск примера [Real World](https://github.com/reactjs/redux/tree/master/examples/real-world):
 
@@ -105,6 +106,8 @@ npm install
 npm start
 
 open http://localhost:3000/
+
+## Shopping Cart
 ```
 
 Тут показаны:
@@ -115,8 +118,6 @@ open http://localhost:3000/
 * Кеширование запросов и вывод спиннера, пока данные подгружаются;
 * Пагинация;
 * Роутинг.
-
-## Shopping Cart
 
 Запуск примера [Shopping Cart](https://github.com/reactjs/redux/tree/master/examples/shopping-cart):
 
@@ -131,6 +132,8 @@ npm install
 npm start
 
 open http://localhost:3000/
+
+## Больше примеров
 ```
 
 Тут показаны:
@@ -143,7 +146,5 @@ open http://localhost:3000/
 * Безопасное распространение действий по условию
 * Использование только React Redux для привязки генераторов действий
 * Условные мидлвэры (на примере логирования)
-
-## Больше примеров
 
 Больше примеров вы сможете найти в [Awesome Redux](https://github.com/xgrommx/awesome-redux).
